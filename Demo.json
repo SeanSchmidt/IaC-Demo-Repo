@@ -1,0 +1,12 @@
+{
+  "_id": "Demo",
+  "github_url": "https://github.com/SeanSchmidt/IaC-Demo-Repo",
+  "app__profiles": {
+    "Demo Profile 1": {
+      "name": "Demo Profile 1",
+      "VM__memory": "32",
+      "VM__cpu_core": "4",
+      "VM__server_count": "1"
+    }
+  }
+}
