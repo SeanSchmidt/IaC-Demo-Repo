@@ -1,0 +1,21 @@
+{
+  "_id": "Aetna Member Tracking System",
+  "github_url": "https://github.com/SeanSchmidt/IaC-Demo-Repo",
+  "app__profiles": {
+    "Web": {
+      "name": "Web"
+    },
+    "App": {
+      "name": "App"
+    },
+    "DB": {
+      "name": "DB"
+    },
+    "Batch": {
+      "name": "Batch"
+    },
+    "ETL": {
+      "name": "ETL"
+    }
+  }
+}
