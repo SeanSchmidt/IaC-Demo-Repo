@@ -3,19 +3,31 @@
   "github_url": "https://github.com/SeanSchmidt/IaC-Demo-Repo",
   "app__profiles": {
     "Web": {
-      "name": "Web"
+      "name": "Web",
+      "VM__server_count": "4"
     },
     "App": {
-      "name": "App"
+      "name": "App",
+      "VM__server_count": "2"
     },
     "DB": {
-      "name": "DB"
+      "name": "DB",
+      "VM__server_count": "4",
+      "VM__cpu_core": "3"
     },
     "Batch": {
-      "name": "Batch"
+      "name": "Batch",
+      "VM__memory": "16",
+      "VM__cpu_core": "2",
+      "VM__server_count": "4"
     },
     "ETL": {
-      "name": "ETL"
+      "name": "ETL",
+      "VM__server_count": "4",
+      "VM__cpu_core": "4",
+      "VM__memory": "32",
+      "OS__os_version": "dv14"
     }
-  }
+  },
+  "_rev": "1-6904492f3558d7ae30ac0e32018e8efd"
 }
