@@ -26,7 +26,11 @@
       "VM__server_count": "4",
       "VM__cpu_core": "4",
       "VM__memory": "32",
-      "OS__os_version": "dv14"
+      "OS__os_version": "dv14",
+      "HV__server_count": "2",
+      "M__os_version": "dv12",
+      "M__server_count": "32",
+      "SW__os_version": "dv12"
     }
   },
   "_rev": "1-6904492f3558d7ae30ac0e32018e8efd"
