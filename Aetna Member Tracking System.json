@@ -1,5 +1,6 @@
 {
   "_id": "Aetna Member Tracking System",
+  "_rev": "2-3672463b9967efd9c0ce062d7f9e4e9a",
   "github_url": "https://github.com/SeanSchmidt/IaC-Demo-Repo",
   "app__profiles": {
     "Web": {
@@ -13,7 +14,9 @@
     "DB": {
       "name": "DB",
       "VM__server_count": "4",
-      "VM__cpu_core": "3"
+      "VM__cpu_core": "3",
+      "HV__os_type": "Windows",
+      "NW__os_type": "Linux2"
     },
     "Batch": {
       "name": "Batch",
@@ -32,6 +35,5 @@
       "M__server_count": "32",
       "SW__os_version": "dv12"
     }
-  },
-  "_rev": "1-6904492f3558d7ae30ac0e32018e8efd"
+  }
 }
