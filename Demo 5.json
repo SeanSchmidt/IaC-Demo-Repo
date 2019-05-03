@@ -1,0 +1,17 @@
+{
+  "_id": "Demo 5",
+  "github_url": "https://github.com/SeanSchmidt/IaC-Demo-Repo",
+  "app__profiles": {
+    "Demo Profile 5": {
+      "name": "Demo Profile 5",
+      "VM__server_count": "2",
+      "VM__memory": "32",
+      "NW__os_version": "dv12"
+    },
+    "Demo Profile 6": {
+      "name": "Demo Profile 6",
+      "HV__os_type": "Linux",
+      "HV__server_count": "2"
+    }
+  }
+}
