@@ -1,5 +1,6 @@
 {
   "_id": "Aetna File Tracking System",
+  "_rev": "1-19ceca15550ffa17a718439c5d7e186d",
   "github_url": "https://github.com/SeanSchmidt/IaC-Demo-Repo",
   "app__profiles": {
     "Web": {
@@ -11,7 +12,8 @@
     "DB": {
       "name": "DB",
       "VM__cpu_core": "2",
-      "VM__memory": "32"
+      "VM__memory": "32",
+      "King_of_Engineering": "Bud"
     },
     "FTP": {
       "name": "FTP",
